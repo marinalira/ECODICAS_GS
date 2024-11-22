@@ -2,6 +2,11 @@
 
 **EcoDicas** é um aplicativo de uma tela que oferece dicas práticas sobre sustentabilidade e economia de energia. O objetivo principal é incentivar os usuários a adotarem hábitos conscientes e eficientes no uso dos recursos naturais, contribuindo para a preservação do meio ambiente. No **EcoDicas**, você pode descobrir, adicionar e compartilhar dicas ecológicas simples para viver de forma mais sustentável.
 
+## Integrantes
+
+- **Leonardo Alves Batista de Souza - RM93868**
+- **Marina Lira Silva - RM95503**
+
 ## Funcionalidades 🌍
 
 - **Lista de Dicas**: O aplicativo exibe uma lista de dicas sobre sustentabilidade, economia de energia e práticas ecológicas, com título e descrição de cada dica.
